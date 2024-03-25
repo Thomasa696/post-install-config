@@ -58,6 +58,7 @@ This is a pic of beginning steps to go through the process of setting up the rol
 
 <p>
 ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/6f223ebe-ce33-4569-a89e-1cb457f851ff).
+ 
 This picture shows how to add teams and to configure the members and all the permissions for the assignments.  This page allows you to name the roles, what the role will do and who will have permission to do anything in this window.  
 </p>
 <p>
