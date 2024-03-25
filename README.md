@@ -32,8 +32,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 
 <h2>Configuration Steps</h2>
-#!This is it
 
+#  Access The Admin Panel
+only staff members can access it.
 <p> 
 <br />
  <p> 
