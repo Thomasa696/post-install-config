@@ -33,7 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-![image](https://github.com/Thomasa696/post-install-config/assets/164200083/9d1aa7b6-3ad4-4954-8937-267b23c1f45d)
+![image](https://github.com/Thomasa696/post-install-config/assets/164200083/ef24af93-4562-42db-a0e5-131fbe9188cf)
+![image](https://github.com/Thomasa696/post-install-config/assets/164200083/5f2087ca-b14d-4072-8a70-706fdf913d03)
+
 
 <p> 
 <br />
