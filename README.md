@@ -19,12 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/a0411e80-7fa7-4204-97c1-6147b911d413)
-  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/daa7b6f6-4565-46d8-a84a-7aaba06b29ce)
- ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/239814cc-4206-47fd-aa0c-c66006402f96)
-![image](https://github.com/Thomasa696/post-install-config/assets/164200083/ad4871cb-dcf1-4630-9c98-d66e731331bd)
-![image](https://github.com/Thomasa696/post-install-config/assets/164200083/463f7eb7-9882-4a18-93a6-876708dca346)
-
+ 
 
 
 <h2>Configuration Steps</h2>
