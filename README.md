@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 
 <h2>Configuration Steps</h2>
-#![image](https://github.com/Thomasa696/post-install-config/assets/164200083/1f770d4c-d073-4c24-b164-85e7f318134d).
+#!This is it
 
 <p> 
 <br />
