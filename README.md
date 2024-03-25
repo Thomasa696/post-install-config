@@ -18,6 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+![image](https://github.com/Thomasa696/post-install-config/assets/164200083/46515341-5615-48f4-b453-fc1b837f1e19)
 
  
 
