@@ -1,4 +1,4 @@
-# post-install-config<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -18,20 +18,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
-![image](https://github.com/Thomasa696/post-install-config/assets/164200083/46515341-5615-48f4-b453-fc1b837f1e19)
 
- 
+- Item 1  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/bbd6c702-72a4-4db7-bcba-c9b69543683c)
 
+- Item 2  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/299f76d8-ab17-4308-86a3-93425e272765)
+
+- Item 3  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/17d88c9a-e340-40cb-aa6f-282f57eecb5c)
+
+- Item 4  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/5a1800d4-c0c9-4a6c-be2b-3041907d579c)
+
+- Item 5![image](https://github.com/Thomasa696/post-install-config/assets/164200083/c86b974c-0e4f-4c19-ad81-3c088ad95a81)
+  
 
 <h2>Configuration Steps</h2>
-<br />![image](https://github.com/Thomasa696/post-install-config/assets/164200083/01cdc4b2-5779-41ee-a300-97271f25d8a5).
- 
 
- 
- 
- 
- 
- 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
