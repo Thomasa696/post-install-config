@@ -40,11 +40,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p> 
 <br />
 ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/4db20cbf-ffec-4006-b41f-9ec1b4ed65ff).
-
+This is a pic of beginning steps to go through the process of setting up the roles in the department with the osticket
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 
 
