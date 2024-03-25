@@ -41,12 +41,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 
-
-
 <p>
 
 </p>
-
 
 
 <![image](https://github.com/Thomasa696/post-install-config/assets/164200083/69b71198-833d-428f-9a74-4449a01c416c) 
@@ -57,7 +54,7 @@ This is a pic of beginning steps to go through the process of setting up the rol
 <br />
 
 <p>
-![image](https://github.com/Thomasa696/post-install-config/assets/164200083/6f223ebe-ce33-4569-a89e-1cb457f851ff).
+<![image](https://github.com/Thomasa696/post-install-config/assets/164200083/6f223ebe-ce33-4569-a89e-1cb457f851ff).
  
 This picture shows how to add teams and to configure the members and all the permissions for the assignments.  This page allows you to name the roles, what the role will do and who will have permission to do anything in this window.  
 </p>
