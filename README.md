@@ -39,7 +39,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p> 
 <br />
- <p> 
  ![image](https://github.com/Thomasa696/post-install-config/assets/164200083/f471147a-f9c9-447f-8c52-a0396c7833d7)
 
 
