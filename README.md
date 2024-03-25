@@ -57,9 +57,9 @@ This is a pic of beginning steps to go through the process of setting up the rol
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Thomasa696/post-install-config/assets/164200083/6f223ebe-ce33-4569-a89e-1cb457f851ff).
+This picture shows how to add teams and to configure the members and all the permissions for the assignments.  This page allows you to name the roles, what the role will do and who will have permission to do anything in this window.  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
