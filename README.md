@@ -33,8 +33,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-#  Access The Admin Panel
-only staff members can access it.
+![image](https://github.com/Thomasa696/post-install-config/assets/164200083/9d1aa7b6-3ad4-4954-8937-267b23c1f45d)
+
 <p> 
 <br />
  <p> 
